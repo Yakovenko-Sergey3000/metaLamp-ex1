@@ -1,0 +1,15 @@
+// Сброс стилей
+@import './null-scss.scss';
+
+// Глобальные стили
+@import './UI-Kit/_globalColors/_globalColors.scss';
+@import './UI-Kit/_fonst/fonst';
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1;
+};
+
+// UI стили
+
+
